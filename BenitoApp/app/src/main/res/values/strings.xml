@@ -1,0 +1,17 @@
+<resources>
+    <string name="BenitoApp">BenitoApp</string>
+    <string name="student_details">STUDENT DETAILS</string>
+    <string name="prompt_email">email</string>
+    <string name="error_invalid_password">invalid password</string>
+    <string name="error_field_required">field required</string>
+    <string name="error_invalid_email">invalid email</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="add_user">add</string>
+    <string name="view_data">view</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="save">save</string>
+
+</resources>
